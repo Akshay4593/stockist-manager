@@ -1,8 +1,8 @@
 **STOCKLIST**
-- IOS application written using Swift 6. It uses CLEAN architecture.
+- IOS application written using Swift 6. It uses MVVM architecture.
 
 **Prerequisites**
-- Xcode 16.1 Swift 6 Deployment Target 15.0
+- Xcode 16.0 Swift 6 Deployment Target 15.0
 
 **FEATURES**
 - MVVM Architecture
